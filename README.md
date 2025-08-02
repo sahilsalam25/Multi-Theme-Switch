@@ -4,7 +4,7 @@ A dynamic and responsive React + TypeScript application that allows users to swi
 
 ## 🚀 Live Demo
 
-🔗 [View Live App](https://sprightly-valkyrie-9a901b.netlify.app/)  
+🔗 [View Live App](https://multi-theme-switch.onrender.com/)  
 📂 [GitHub Repository](https://github.com/sahilsalam25/Multi-Theme-Switch)
 
 ---
